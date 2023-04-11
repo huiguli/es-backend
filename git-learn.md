@@ -14,4 +14,8 @@ IDEA 中添加 Git：点击 VCS 选择 Git 即可
 
 分支操作
 - 创建分支：git -- branches  或 idea右下角 master ===> 创建分支，checkout 并切换过去
+- 查看提交过的版本，点击 git---log
+- 切换版本：直接右键点击 checkout ...(黄色指针即头指针，master即当前分支的指针)
+
 - 当前为hot - fix分支，演示合并分支（master分支没改）
+- 演示站在master分支下，合并hot-fix分支
