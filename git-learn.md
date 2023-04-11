@@ -22,3 +22,5 @@ IDEA 中添加 Git：点击 VCS 选择 Git 即可
 - 点击hot-fix分支，选择merge hot-fix to master
 
 - 学习解决合并时发生的冲突。当我在hot-fix 修改提交后，master分支也修改提交了，合并时就需要选择（冲突）
+
+- 模拟拉取代码 pull
