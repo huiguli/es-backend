@@ -19,3 +19,5 @@ IDEA 中添加 Git：点击 VCS 选择 Git 即可
 
 - 当前为hot - fix分支，演示合并分支（master分支没改）
 - 演示站在master分支下，合并hot-fix分支
+
+- 学习解决合并时发生的冲突。当我在hot-fix 修改提交后，master分支也修改提交了，合并时就需要选择（冲突）
