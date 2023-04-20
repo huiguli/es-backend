@@ -4,7 +4,7 @@
 - 项目架构图
 ![image](https://user-images.githubusercontent.com/84505780/233338461-68839dd0-c602-4aff-86b0-03c22ee8b9f3.png)
 - 合理分层
-- 
+
 ### 业务特性
 
 - Spring Session Redis 分布式登录
